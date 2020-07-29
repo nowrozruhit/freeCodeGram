@@ -4,7 +4,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-freeCodeGram is a faithful recreation of Instagram with 90% of it's functionality by just using Laravel 7, Bootstrap and tiny sprinkle of Vue. The intention of creating this project is to learn Laravel. All the credit of this project goes to Coder's Tape who created this project as part of a 4 hour course on freecodecamp.org's channel on YouTube. I just converted it from Laravel 5.8 to Laravel 7.
+freeCodeGram is a faithful recreation of Instagram with 90% of it's functionality by just using Laravel 7, Bootstrap and tiny splash of Vue JS. The intention of creating this project is to learn Laravel. All the credit of this project goes to Coder's Tape who created this project as part of a 4 hour course on freecodecamp.org's channel on YouTube. I just converted it from Laravel 5.8 to Laravel 7.
 
 Contents
   - Laravel 7
